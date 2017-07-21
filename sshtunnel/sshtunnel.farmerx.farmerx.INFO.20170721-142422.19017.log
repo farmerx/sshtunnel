@@ -1,0 +1,4 @@
+Log file created at: 2017/07/21 14:24:22
+Running on machine: farmerx
+Binary: Built with gc go1.8 for darwin/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
