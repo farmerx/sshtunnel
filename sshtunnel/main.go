@@ -2,8 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	_ "farmerx/sshtunnel/statik"
-	"farmerx/sshtunnel/tunnel"
+	_ "github.com/farmerx/sshtunnel/sshtunnel/statik"
+	"github.com/farmerx/sshtunnel/sshtunnel/tunnel"
 	"flag"
 	"fmt"
 	"io"
