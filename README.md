@@ -16,3 +16,16 @@ SSHTunnel
 [Precompiled binaries](https://github.com/farmerx/sshtunnel/releases) for supported operating systems are available.
 
 ## sshtunnel应用界面
+![image](https://raw.githubusercontent.com/farmerx/sshtunnel/master/WechatIMG1077.jpeg)
+
+## Using 
+* 下载sshtunnel 并给sshtunnel 可以运行的权限
+* 执行./sshtunnel -c config.json 既可以运行
+* 默认打开控制台界面，也可以浏览器输入`http://127.0.0.1:9801/`
+* 登录的账号密码卸载config.json中
+
+
+## Licenses
+
+This program is under the terms of the MIT License. See [LICENSE](https://github.com/farmerx/elasticHD/blob/master/LICENSE) for the full license text.
+
